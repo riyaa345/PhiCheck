@@ -324,7 +324,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                                       iconPadding:
                                           EdgeInsetsDirectional.fromSTEB(
                                               0.0, 0.0, 0.0, 0.0),
-                                      color: Color(0xFF060223),
+                                      color: Color(0xFF181055),
                                       textStyle: FlutterFlowTheme.of(context)
                                           .titleMedium
                                           .override(
@@ -370,7 +370,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                                       .titleSmall
                                       .override(
                                         fontFamily: 'Lexend Deca',
-                                        color: Color(0xFF060223),
+                                        color: Color(0xFF181055),
                                         fontSize: 14.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -398,7 +398,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                                         .bodyMedium
                                         .override(
                                           fontFamily: 'Manrope',
-                                          color: Color(0xFF060223),
+                                          color: Color(0xFF181055),
                                           fontWeight: FontWeight.w800,
                                         ),
                                   ),

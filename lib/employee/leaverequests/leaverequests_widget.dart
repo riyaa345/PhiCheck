@@ -209,7 +209,7 @@ class _LeaverequestsWidgetState extends State<LeaverequestsWidget> {
                                                         EdgeInsetsDirectional
                                                             .fromSTEB(0.0, 0.0,
                                                                 0.0, 0.0),
-                                                    color: Color(0xFF060223),
+                                                    color: Color(0xFF181055),
                                                     textStyle: FlutterFlowTheme
                                                             .of(context)
                                                         .titleSmall

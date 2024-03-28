@@ -200,7 +200,7 @@ class _HomeEmployeeWidgetState extends State<HomeEmployeeWidget> {
                                     24.0, 0.0, 24.0, 0.0),
                                 iconPadding: EdgeInsetsDirectional.fromSTEB(
                                     0.0, 0.0, 0.0, 0.0),
-                                color: FlutterFlowTheme.of(context).primary,
+                                color: Color(0xFF181055),
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
@@ -230,7 +230,7 @@ class _HomeEmployeeWidgetState extends State<HomeEmployeeWidget> {
                                     24.0, 0.0, 24.0, 0.0),
                                 iconPadding: EdgeInsetsDirectional.fromSTEB(
                                     0.0, 0.0, 0.0, 0.0),
-                                color: FlutterFlowTheme.of(context).primary,
+                                color: Color(0xFF181055),
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
@@ -265,7 +265,7 @@ class _HomeEmployeeWidgetState extends State<HomeEmployeeWidget> {
                                     24.0, 0.0, 24.0, 0.0),
                                 iconPadding: EdgeInsetsDirectional.fromSTEB(
                                     0.0, 0.0, 0.0, 0.0),
-                                color: FlutterFlowTheme.of(context).primary,
+                                color: Color(0xFF181055),
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
@@ -295,7 +295,7 @@ class _HomeEmployeeWidgetState extends State<HomeEmployeeWidget> {
                                     24.0, 0.0, 24.0, 0.0),
                                 iconPadding: EdgeInsetsDirectional.fromSTEB(
                                     0.0, 0.0, 0.0, 0.0),
-                                color: FlutterFlowTheme.of(context).primary,
+                                color: Color(0xFF181055),
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(

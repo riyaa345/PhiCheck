@@ -187,7 +187,7 @@ class _LeaveManagementWidgetState extends State<LeaveManagementWidget> {
                                   24.0, 0.0, 24.0, 0.0),
                               iconPadding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 0.0, 0.0, 0.0),
-                              color: Color(0xFF060223),
+                              color: Color(0xFF181055),
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
@@ -220,7 +220,7 @@ class _LeaveManagementWidgetState extends State<LeaveManagementWidget> {
                               padding: EdgeInsets.all(0.0),
                               iconPadding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 0.0, 0.0, 0.0),
-                              color: Color(0xFF060223),
+                              color: Color(0xFF181055),
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(

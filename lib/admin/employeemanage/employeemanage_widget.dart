@@ -193,7 +193,7 @@ class _EmployeemanageWidgetState extends State<EmployeemanageWidget> {
                                                         EdgeInsetsDirectional
                                                             .fromSTEB(0.0, 0.0,
                                                                 0.0, 0.0),
-                                                    color: Color(0xFF060223),
+                                                    color: Color(0xFF181055),
                                                     textStyle: FlutterFlowTheme
                                                             .of(context)
                                                         .titleSmall
@@ -237,7 +237,7 @@ class _EmployeemanageWidgetState extends State<EmployeemanageWidget> {
                                                         EdgeInsetsDirectional
                                                             .fromSTEB(0.0, 0.0,
                                                                 0.0, 0.0),
-                                                    color: Color(0xFF060223),
+                                                    color: Color(0xFF181055),
                                                     textStyle: FlutterFlowTheme
                                                             .of(context)
                                                         .titleSmall

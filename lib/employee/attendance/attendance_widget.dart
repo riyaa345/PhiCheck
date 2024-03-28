@@ -139,7 +139,7 @@ class _AttendanceWidgetState extends State<AttendanceWidget>
                                     ],
                                   ),
                                   child: FlutterFlowCalendar(
-                                    color: Color(0xFF060223),
+                                    color: Color(0xFF181055),
                                     iconColor: FlutterFlowTheme.of(context)
                                         .secondaryText,
                                     weekFormat: false,
@@ -181,7 +181,7 @@ class _AttendanceWidgetState extends State<AttendanceWidget>
                                           iconPadding:
                                               EdgeInsetsDirectional.fromSTEB(
                                                   0.0, 0.0, 0.0, 0.0),
-                                          color: Color(0xFF060223),
+                                          color: Color(0xFF181055),
                                           textStyle:
                                               FlutterFlowTheme.of(context)
                                                   .titleSmall
@@ -214,7 +214,7 @@ class _AttendanceWidgetState extends State<AttendanceWidget>
                                             iconPadding:
                                                 EdgeInsetsDirectional.fromSTEB(
                                                     0.0, 0.0, 0.0, 0.0),
-                                            color: Color(0xFF060223),
+                                            color: Color(0xFF181055),
                                             textStyle:
                                                 FlutterFlowTheme.of(context)
                                                     .titleSmall

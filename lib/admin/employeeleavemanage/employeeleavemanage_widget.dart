@@ -218,7 +218,7 @@ class _EmployeeleavemanageWidgetState extends State<EmployeeleavemanageWidget> {
                                                                   0.0,
                                                                   0.0,
                                                                   0.0),
-                                                      color: Color(0xFF060223),
+                                                      color: Color(0xFF181055),
                                                       textStyle:
                                                           FlutterFlowTheme.of(
                                                                   context)

@@ -215,7 +215,7 @@ class _ChangepasswordWidgetState extends State<ChangepasswordWidget> {
                           EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
                       iconPadding:
                           EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                      color: Color(0xFF060223),
+                      color: Color(0xFF181055),
                       textStyle: FlutterFlowTheme.of(context).titleSmall,
                       elevation: 3.0,
                       borderSide: BorderSide(

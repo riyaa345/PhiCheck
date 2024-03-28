@@ -432,7 +432,7 @@ class _EditProfileWidgetState extends State<EditProfileWidget> {
                             EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
                         iconPadding:
                             EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                        color: Color(0xFF060223),
+                        color: Color(0xFF181055),
                         textStyle:
                             FlutterFlowTheme.of(context).titleSmall.override(
                                   fontFamily: 'Lexend Deca',

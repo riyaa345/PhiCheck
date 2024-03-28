@@ -193,7 +193,7 @@ class _MarkattendanceWidgetState extends State<MarkattendanceWidget> {
                           EdgeInsetsDirectional.fromSTEB(24.0, 0.0, 24.0, 0.0),
                       iconPadding:
                           EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                      color: FlutterFlowTheme.of(context).primary,
+                      color: Color(0xFF181055),
                       textStyle:
                           FlutterFlowTheme.of(context).titleSmall.override(
                                 fontFamily: 'Manrope',
@@ -229,7 +229,7 @@ class _MarkattendanceWidgetState extends State<MarkattendanceWidget> {
                             24.0, 0.0, 24.0, 0.0),
                         iconPadding:
                             EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                        color: FlutterFlowTheme.of(context).primary,
+                        color: Color(0xFF181055),
                         textStyle:
                             FlutterFlowTheme.of(context).titleSmall.override(
                                   fontFamily: 'Manrope',

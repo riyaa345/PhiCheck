@@ -66,7 +66,7 @@ class _PendingWidgetState extends State<PendingWidget>
           decoration: BoxDecoration(
             gradient: LinearGradient(
               colors: [
-                Color(0xFF060223),
+                FlutterFlowTheme.of(context).primary,
                 FlutterFlowTheme.of(context).secondaryBackground
               ],
               stops: [0.0, 1.0],
@@ -116,7 +116,7 @@ class _PendingWidgetState extends State<PendingWidget>
                                 24.0, 0.0, 24.0, 0.0),
                             iconPadding: EdgeInsetsDirectional.fromSTEB(
                                 0.0, 0.0, 0.0, 0.0),
-                            color: Color(0xFF060223),
+                            color: Color(0xFF181055),
                             textStyle: FlutterFlowTheme.of(context)
                                 .titleSmall
                                 .override(
